@@ -1,0 +1,43 @@
+
+    body {
+        padding: 20px;
+        background-color: rgb(0, 0, 0);
+        color: black;
+        font-size: 25px;
+      }
+    /* p{
+        color: aqua;
+        background: #000;
+    } */
+    *{
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    .darkmode
+    {
+        background-color: #000;
+        color :aliceblue;
+        text-align: center;
+    }
+    
+
+    .RightSideText
+    {
+        position: absolute;
+        top: auto;
+        right: 30px;
+        width: 10px;
+        height: 10px;
+        background-color: #000;
+        color: #eee;
+    }
+
+    .Lefties
+    {
+        text-align-last: left;
+    }
+    #TopBanner
+    {
+        align-items: center;
+    }
